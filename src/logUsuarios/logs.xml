@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><logs>
+    <log>
+        <nroCuenta>26331250</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se creó cuenta</descripcion>
+        <monto>20</monto>
+        <saldo>20</saldo>
+    </log>
+    <log>
+        <nroCuenta>26331250</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó un retiro.</descripcion>
+        <monto>10.0</monto>
+        <saldo>10.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>28861338</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se crea cuenta</descripcion>
+        <monto>10</monto>
+        <saldo>10</saldo>
+    </log>
+    <log>
+        <nroCuenta>26331250</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó un deposito.</descripcion>
+        <monto>174.0</monto>
+        <saldo>184.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>28861338</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó un deposito.</descripcion>
+        <monto>2000.0</monto>
+        <saldo>2010.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>28861338</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó un retiro.</descripcion>
+        <monto>42.00000000000001</monto>
+        <saldo>1968.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>28861338</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó un retiro.</descripcion>
+        <monto>1.4000000000000001</monto>
+        <saldo>1966.6</saldo>
+    </log>
+    <log>
+        <nroCuenta>22792474</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se creó cuenta</descripcion>
+        <monto>100</monto>
+        <saldo>100</saldo>
+    </log>
+    <log>
+        <nroCuenta>22792474</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó un deposito.</descripcion>
+        <monto>230.0</monto>
+        <saldo>330.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>24374459</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se crea cuenta</descripcion>
+        <monto>30</monto>
+        <saldo>30</saldo>
+    </log>
+    <log>
+        <nroCuenta>24374459</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó un deposito.</descripcion>
+        <monto>13.0</monto>
+        <saldo>43.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>22792474</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizó una transferencia.</descripcion>
+        <monto>100.0</monto>
+        <saldo>130.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>28861338</nroCuenta>
+        <fecha>2024/05/20</fecha>
+        <descripcion>Se realizo un transferencia externa:22792474</descripcion>
+        <monto>100.0</monto>
+        <saldo>130.0</saldo>
+    </log>
+    <log>
+        <nroCuenta>21584217</nroCuenta>
+        <fecha>2024/06/02</fecha>
+        <descripcion>Se creó cuenta</descripcion>
+        <monto>10</monto>
+        <saldo>10</saldo>
+    </log>
+    <log>
+        <nroCuenta>22978809</nroCuenta>
+        <fecha>2024/06/02</fecha>
+        <descripcion>Se creó cuenta</descripcion>
+        <monto>10</monto>
+        <saldo>10</saldo>
+    </log>  
+<log><nroCuenta>21584217</nroCuenta><fecha>2024/06/02</fecha><descripcion>Se realizó un deposito.</descripcion><monto>69.6</monto><saldo>79.6</saldo></log><log><nroCuenta>21584217</nroCuenta><fecha>2024/06/02</fecha><descripcion>Se realizó una transferencia.</descripcion><monto>15.0</monto><saldo>64.6</saldo></log><log><nroCuenta>22978809</nroCuenta><fecha>2024/06/02</fecha><descripcion>Se realizo un transferencia externa:21584217</descripcion><monto>2.1</monto><saldo>64.6</saldo></log><log><nroCuenta>22794768</nroCuenta><fecha>2024/06/02</fecha><descripcion>Se crea cuenta</descripcion><monto>10</monto><saldo>10</saldo></log></logs>

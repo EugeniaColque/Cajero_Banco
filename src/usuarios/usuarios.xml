@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><usuarios>
+    <usuario id="eli15">
+        <nombreTitular>Eliana Suaznabar Saavedra</nombreTitular>
+        <contrasena>ZsQb+fA6M6vta0e++BdHCg==</contrasena>
+        <cuenta>
+            <nroCuenta>21584217</nroCuenta>
+            <divisa>bolivianos</divisa>
+            <monto>64.6</monto>
+        </cuenta>
+        <cuenta>
+            <nroCuenta>22794768</nroCuenta>
+            <divisa>euros</divisa>
+            <monto>10</monto>
+        </cuenta>
+    </usuario>
+    <usuario id="juan16">
+        <nombreTitular>Juan Guiterrez Molina</nombreTitular>
+        <contrasena>DdjCGHSEJES32Gt/PsY4kQ==</contrasena>
+        <cuenta>
+            <nroCuenta>22978809</nroCuenta>
+            <divisa>dolares</divisa>
+            <monto>12.1</monto>
+        </cuenta>
+    </usuario>
+</usuarios>
